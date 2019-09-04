@@ -7,7 +7,7 @@ Google Cloud Storage Python Samples
 
 This repository contains the companion / solution code for all Cloud Talent Solutions codelabs.
 
- `Google Cloud Talent Solution` allows world-wide storage and retrieval of any amount of data at any time.
+The `Google Cloud Talent Solution API`_ allows world-wide storage and retrieval of any amount of data at any time.
 
 
-.. _Google Cloud Talent Solution: http://cloud.google.com/solutions/talent-solution
+.. _Google Cloud Talent Solution API: http://cloud.google.com/solutions/talent-solution
